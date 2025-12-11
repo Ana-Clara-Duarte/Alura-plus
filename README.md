@@ -16,10 +16,4 @@ O objetivo principal foi praticar posicionamento com Flexbox, responsividade e o
 
 ---
 
-### Dev
 
-<img src="img-p/desenvolvedora.JPG" alt="Foto da criadora" width="100px">
-
-
-**Ana Clara F. D.**  
-Desenvolvedora em formação, apaixonada por tecnologia e criação de interfaces web.
